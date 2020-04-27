@@ -18,4 +18,4 @@
 
 -[@SPOCTONE](https://github.com/SPOCTONE)
 
--[@uditmore99](https:://github.com/uditmore99)
+-[@uditmore99](https://github.com/uditmore99)
